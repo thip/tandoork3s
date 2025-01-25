@@ -33,5 +33,5 @@ spec:
         pathType: Prefix
   tls:
   - hosts:
-   - tandoor.kneecapper.house
-   secretName: recipes-tls
+    - tandoor.kneecapper.house
+    secretName: recipes-tls
